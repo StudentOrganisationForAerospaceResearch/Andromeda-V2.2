@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2210-3.3
+D 300mA low dropout linear regulator, wide input voltage range, 3.3V fixed positive output, SOT23-3 package
+K linear regulator ldo fixed positive
+$ENDCMP
+#
+#End Doc Library
