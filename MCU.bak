@@ -1,16 +1,15 @@
 EESchema Schematic File Version 4
-LIBS:AndromedaV2-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 5
-Title "SOAR Avionics Development Board"
-Date "2017-12-03"
-Rev "1"
+Title "SOAR Avionics Sensor Board"
+Date "2019-05-10"
+Rev "2"
 Comp "SOAR"
 Comment1 "Andromeda"
-Comment2 "Garnet Tanner"
+Comment2 "Prithvi Shankara"
 Comment3 ""
 Comment4 ""
 $EndDescr
